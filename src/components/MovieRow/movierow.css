@@ -1,0 +1,30 @@
+ 
+  .controls-wrapper {
+    width: 100%;
+  }
+  
+  .carousel-wrapper {
+    width: 100%;
+  }
+  
+
+
+
+  .carousel-wrapper > h1 {
+    color: white;
+    margin-left: 77px; 
+    margin-top: 0;
+   
+  }
+  
+  .rec-arrow:hover {
+    color: white;
+    background-color: red !important;
+    opacity:1;
+  }
+
+  .rec-arrow{
+    color: white;
+    background-color: rgba(254, 253, 255, 0.637) !important;
+    opacity:0.3;
+  }
